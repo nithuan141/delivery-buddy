@@ -1,5 +1,5 @@
 This project is an example of using map box and ford kerbspace API.
-This contains exaple to show a map box in a react application, how to mark points in the map box and how to show the paring bays from the ford erbspace API.
+This contains exaple to show a map box in a react application, how to mark points in the map box and how to show the parking bays from the ford erbspace API.
 
 ## Available Scripts
 
