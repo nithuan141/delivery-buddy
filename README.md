@@ -5,6 +5,12 @@ This contains exaple to show a map box in a react application, how to mark point
 
 In the project directory, you can run:
 
+### `yarn install`
+
+To install the dependencies.
+
+Craete an API token form the map box api  https://docs.mapbox.com/mapbox-gl-js/api/  and update the same on config.js
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
